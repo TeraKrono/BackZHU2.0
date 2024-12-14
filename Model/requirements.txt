@@ -1,0 +1,8 @@
+tensorflow-cpu>=2.9.0
+numpy>=1.22.0
+opencv-python>=4.5.5
+mtcnn>=0.1.1
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+flask
+chromadb

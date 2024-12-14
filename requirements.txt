@@ -1,0 +1,12 @@
+Flask==2.3.3
+numpy==1.24.3
+pymongo==4.3.3
+Pillow==9.5.0
+requests==2.31.0
+tensorflow-cpu>=2.9.0
+opencv-python>=4.5.5
+mtcnn>=0.1.1
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+pysqlite-binary
+chromadb
